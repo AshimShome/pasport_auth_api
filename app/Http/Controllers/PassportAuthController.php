@@ -1,3 +1,7 @@
+
+******* in user model be change
+use Laravel\Passport\HasApiTokens;
+
 <?php
 
 namespace App\Http\Controllers;
